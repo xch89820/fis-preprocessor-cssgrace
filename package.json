@@ -1,0 +1,33 @@
+{
+  "name": "fis-preprocessor-cssgrace",
+  "version": "1.0.0",
+  "description": "preprocessor cssgrace for fis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xch89820/fis-preprocessor-cssgrace"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "author": {
+    "name": "fansekey"
+  },
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/xch89820/fis-preprocessor-cssgrace/issues"
+  },
+  "dependencies": {
+    "cssgrace": "^2.0.2",
+    "postcss": "^4.1.11"
+  },
+  "maintainers": [
+    {
+      "name": "jonecapser",
+      "email": "xu.chenhui@live.com"
+    }
+  ]
+}

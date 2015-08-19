@@ -1,6 +1,6 @@
 {
   "name": "fis-preprocessor-cssgrace",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "preprocessor cssgrace for fis",
   "main": "index.js",
   "scripts": {

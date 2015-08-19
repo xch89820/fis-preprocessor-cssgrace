@@ -21,8 +21,15 @@
     "url": "https://github.com/xch89820/fis-preprocessor-cssgrace/issues"
   },
   "dependencies": {
-    "cssgrace": "^2.0.2",
+    "image-size": "^0.3.5",
     "postcss": "^4.1.11"
+  },
+  "peerDependencies": {
+    "postcss": "^4.1.11"
+  },
+  "devDependencies": {
+    "postcss": "^4.1.11",
+    "tape": "^3.0.0"
   },
   "maintainers": [
     {
